@@ -1,4 +1,4 @@
-# **Relatório do Projeto: Classificação de Imagens MNIST com PyTorch**
+# **Projeto de Classificação de Imagens MNIST com PyTorch**
 
 **1\. Introdução**
 
